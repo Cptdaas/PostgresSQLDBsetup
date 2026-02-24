@@ -1,0 +1,16 @@
+version : '3.9'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: cptdaas-postgres
+    environment:
+      POSTGRES_USER: cptdaas
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: mydb
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+volumes:
+  postgres_data:
