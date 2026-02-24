@@ -22,7 +22,7 @@ Option 3: ECS / EKS Containerized Deployment
 
 ---
 <p align="center">
-  <img src="Tier3Arch.jpg" 
+  <img src="images/Tier3Arch.jpg" 
        alt="Hierarchical Navigable Small World (HNSW) Diagram" 
        width="800"
        height="500"/>
@@ -213,7 +213,7 @@ cat backup.sql | docker exec -i my-postgres psql -U admin -d mydatabase
 There are multiple ways to deploy PostgreSQL on AWS.
 
 <p align="center">
-  <img src="AWSdockerpostgres.png" 
+  <img src="images/AWSdockerpostgres.png" 
        alt="Hierarchical Navigable Small World (HNSW) Diagram" 
        width="800"
        height="500"/>
@@ -287,7 +287,7 @@ Production systems
 
 ---
 <p align="center">
-  <img src="RDSreplica.png" 
+  <img src="images/RDSreplica.png" 
        alt="Hierarchical Navigable Small World (HNSW) Diagram" 
        width="800"
        height="500"/>
@@ -323,7 +323,7 @@ Used for:
 
 ---
 <p align="center">
-  <img src="kubernative.gif" 
+  <img src="images/kubernative.gif" 
        alt="Hierarchical Navigable Small World (HNSW) Diagram" 
        width="800"
        height="500"/>
