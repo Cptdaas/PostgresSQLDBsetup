@@ -2,3 +2,6 @@ psycopg2-binary
 pandas 
 numpy
 faker
+#ORM (Object-Relational Mapper) libraries for database interactions
+sqlalchemy 
+alembic 
