@@ -139,6 +139,12 @@ Creates:
   * business
 
 ---
+<p align="center">
+  <img src="mydb - mydb - office.png" 
+       alt="Hierarchical Navigable Small World (HNSW) Diagram" 
+       width="800"
+       height="500"/>
+</p>
 
 ## 📊 Load Dummy Data (100 Rows Each)
 
@@ -201,3 +207,6 @@ SELECT COUNT(*) FROM office.business;
 ## ✅ Status
 
 Local PostgreSQL containerized environment successfully running with schema management
+
+
+<!-- file name :mydb - mydb - office.png -->

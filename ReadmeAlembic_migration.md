@@ -207,3 +207,20 @@ Not necessary for:
 
 Alembic successfully integrated for controlled schema versioning and production-grade database management.
 
+
+
+* Schema: `office`
+* Tables:
+
+  * department
+  * employee
+  * salary
+  * business
+
+---
+<p align="center">
+  <img src="mydb - mydb - office.png" 
+       alt="Hierarchical Navigable Small World (HNSW) Diagram" 
+       width="800"
+       height="500"/>
+</p>
